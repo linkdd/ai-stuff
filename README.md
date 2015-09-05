@@ -3,4 +3,4 @@ Draft of algorithms related to Artificial Intelligence (genetic programming, mac
 
 This repository is for personal study purpose and will not contains long term projects.
 
-Everything is licensed under the MIT license.
+Everything is distributed under the MIT license.
